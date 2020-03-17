@@ -1,0 +1,6 @@
+# ignore env
+
+myenv_Chat/*
+db*
+sent*
+image/*
